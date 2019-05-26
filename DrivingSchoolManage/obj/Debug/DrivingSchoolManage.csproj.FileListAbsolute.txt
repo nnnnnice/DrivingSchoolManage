@@ -1,0 +1,10 @@
+C:\Users\Q\Documents\Visual Studio 2008\Projects\DrivingSchoolManage\DrivingSchoolManage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Q\Documents\Visual Studio 2008\Projects\DrivingSchoolManage\DrivingSchoolManage\bin\DrivingSchoolManage.dll
+C:\Users\Q\Documents\Visual Studio 2008\Projects\DrivingSchoolManage\DrivingSchoolManage\bin\DrivingSchoolManage.pdb
+C:\Users\Q\Documents\Visual Studio 2008\Projects\DrivingSchoolManage\DrivingSchoolManage\obj\Debug\DrivingSchoolManage.dll
+C:\Users\Q\Documents\Visual Studio 2008\Projects\DrivingSchoolManage\DrivingSchoolManage\obj\Debug\DrivingSchoolManage.pdb
+D:\婷\大二下\软件工程\驾校管理系统\DrivingSchoolManage\DrivingSchoolManage\obj\Debug\ResolveAssemblyReference.cache
+D:\婷\大二下\软件工程\驾校管理系统\DrivingSchoolManage\DrivingSchoolManage\obj\Debug\DrivingSchoolManage.dll
+D:\婷\大二下\软件工程\驾校管理系统\DrivingSchoolManage\DrivingSchoolManage\obj\Debug\DrivingSchoolManage.pdb
+D:\婷\大二下\软件工程\驾校管理系统\DrivingSchoolManage\DrivingSchoolManage\bin\DrivingSchoolManage.dll
+D:\婷\大二下\软件工程\驾校管理系统\DrivingSchoolManage\DrivingSchoolManage\bin\DrivingSchoolManage.pdb
