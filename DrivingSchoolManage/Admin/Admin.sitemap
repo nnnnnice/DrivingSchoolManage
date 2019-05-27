@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/Admin/AdminDefault.aspx" title=""  description="">
+    <siteMapNode url="" title="学员信息管理"  description="" >
+      <siteMapNode url="" title="报名登记"  description="" />
+      <siteMapNode url="" title="报名查询" description="" />
+      <siteMapNode url="" title="体检登记"  description="" />
+      <siteMapNode url="" title="体检查询" description="" />
+      <siteMapNode url="" title="退学登记"  description="" />
+      <siteMapNode url="" title="退学查询" description="" />
+    </siteMapNode>
+    <siteMapNode url="" title="教学管理"  description="" >
+      <siteMapNode url="" title="教练分配登记"  description="" />
+      <siteMapNode url="" title="教练分配查询" description="" />
+      <siteMapNode url="" title="学员约车登记"  description="" />
+      <siteMapNode url="" title="学员约车查询" description="" />
+    </siteMapNode>
+    <siteMapNode url="" title="考试管理"  description="" >
+      <siteMapNode url="" title="学员约考管理"  description="" />
+      <siteMapNode url="" title="学员约考查询" description="" />
+    </siteMapNode>
+    <siteMapNode url="" title="成绩管理"  description="" >
+      <siteMapNode url="" title="成绩添加"  description="" />
+      <siteMapNode url="" title="成绩查询" description="" />
+    </siteMapNode>
+    <siteMapNode url="" title="用户管理"  description="" >
+      <siteMapNode url="" title="用户添加"  description="" />
+      <siteMapNode url="" title="用户管理" description="" />
+    </siteMapNode>
+    <siteMapNode url="" title="个人信息管理"  description="" />
+    <siteMapNode url="~/login.aspx" title="重新登录"  description="" />
+  </siteMapNode>
+</siteMap>
