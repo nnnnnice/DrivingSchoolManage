@@ -1,0 +1,7 @@
+D:\婷\大二下\软件工程\驾校管理系统\DrivingSchoolManage\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\婷\大二下\软件工程\驾校管理系统\DrivingSchoolManage\DAL\bin\Debug\DAL.dll
+D:\婷\大二下\软件工程\驾校管理系统\DrivingSchoolManage\DAL\bin\Debug\DAL.pdb
+D:\婷\大二下\软件工程\驾校管理系统\DrivingSchoolManage\DAL\bin\Debug\Model.dll
+D:\婷\大二下\软件工程\驾校管理系统\DrivingSchoolManage\DAL\bin\Debug\Model.pdb
+D:\婷\大二下\软件工程\驾校管理系统\DrivingSchoolManage\DAL\obj\Debug\DAL.dll
+D:\婷\大二下\软件工程\驾校管理系统\DrivingSchoolManage\DAL\obj\Debug\DAL.pdb
