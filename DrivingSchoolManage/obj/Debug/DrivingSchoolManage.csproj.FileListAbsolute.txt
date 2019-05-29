@@ -8,3 +8,8 @@ D:\婷\大二下\软件工程\驾校管理系统\DrivingSchoolManage\DrivingScho
 D:\婷\大二下\软件工程\驾校管理系统\DrivingSchoolManage\DrivingSchoolManage\obj\Debug\DrivingSchoolManage.pdb
 D:\婷\大二下\软件工程\驾校管理系统\DrivingSchoolManage\DrivingSchoolManage\bin\DrivingSchoolManage.dll
 D:\婷\大二下\软件工程\驾校管理系统\DrivingSchoolManage\DrivingSchoolManage\bin\DrivingSchoolManage.pdb
+D:\pth作业\大二下\软件工程\小组大作业\DrivingSchoolManage\DrivingSchoolManage\obj\Debug\ResolveAssemblyReference.cache
+D:\pth作业\大二下\软件工程\小组大作业\DrivingSchoolManage\DrivingSchoolManage\obj\Debug\DrivingSchoolManage.pdb
+D:\pth作业\大二下\软件工程\小组大作业\DrivingSchoolManage\DrivingSchoolManage\bin\DrivingSchoolManage.dll
+D:\pth作业\大二下\软件工程\小组大作业\DrivingSchoolManage\DrivingSchoolManage\bin\DrivingSchoolManage.pdb
+D:\pth作业\大二下\软件工程\小组大作业\DrivingSchoolManage\DrivingSchoolManage\obj\Debug\DrivingSchoolManage.dll
