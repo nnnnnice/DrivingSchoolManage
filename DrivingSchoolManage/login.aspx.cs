@@ -49,7 +49,11 @@ namespace JXGL
             }
             else if (RadioButtonListRole.SelectedValue == "管理员")
             {
+<<<<<<< HEAD
                 sql = "select * from Users where username='" + txtid.Text + "'and userpwd='" + txtPwd.Text + "'and jobname='管理员'";
+=======
+                sql = "select * from Users where username='" + txtid.Text + "'and userpwd='" + txtName.Text + "'and jobname='管理员'";
+>>>>>>> f3bc2d1f15f98725ad26c6af4a69c83645697f87
                 SqlCommand cmd = new SqlCommand(sql, conn);
                 object obj = cmd.ExecuteScalar();
                 if (obj != null) Response.Write("<script language=javascript>alert('登陆成功!');location='Admin/AdminPage.aspx?a=" + txtid.Text + "';</script>");
