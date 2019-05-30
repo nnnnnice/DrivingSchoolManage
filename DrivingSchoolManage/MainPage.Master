@@ -3,36 +3,30 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml" >
-<head runat="server">
+<head id="Head1" runat="server">
     <title></title>
     <style type="text/css">
         #header
         {
-            background-image: url("/images/bg.jpg");
-            width: 900px;
-            height: 128px;
+            background-image: url("/images/bg2.jpg");
+            width: 1022px;
+            height: 180px;
         }
         #menu
         {
-            background-color: #B5C7DE;
-            width: 900px;
+            background-color: #FFCC99;
+            width: 1022px;
             height: 32px;
         }
         #content
         {
-            width: 900px;
-            min-height: 400px;
-            background-color: #E6E6EF;
-        }
-        #footer
-        {
-            width: 900px;
-            text-align: center;
-            background-color: #AACCEE;
+            width: 1022px;
+            min-height: 520px;
+            background-color: #FFFFCC;
         }
         #container
         {
-            width: 900px;
+            width: 1022px;
             margin-left: auto;
             margin-right: auto;
         }
@@ -44,19 +38,26 @@
     <div id="container">
         <form id="form1" runat="server">
         <div id="header">
+            <table cellSpacing=0 cellPadding=0 width="1022px" >
+              <tr height=10>
+                <td 
+                    align=right class="style2">欢迎您：<%=Session ["username"] %> &nbsp;&nbsp;身份：<%= Session ["jobname"] %>  &nbsp;&nbsp; 
+                </td>
+              </tr>
+            </table>
         </div>
         <div id="menu">
-            <asp:Menu ID="Menu1" runat="server" DataSourceID="SiteMapDataSourceMenu" BackColor="#B5C7DE"
+            <asp:Menu ID="Menu1" runat="server" DataSourceID="SiteMapDataSourceMenu" BackColor="#FFCC99"
                 DynamicHorizontalOffset="0" Font-Names="Verdana" Font-Size="Medium" ForeColor="#284E98"
                 Height="32px" Orientation="Horizontal" StaticDisplayLevels="2" 
                 StaticSubMenuIndent="10px">
-                <StaticSelectedStyle BackColor="#507CD1" />
+                <StaticSelectedStyle BackColor="#FF3300" />
                 <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
-                <DynamicHoverStyle BackColor="#284E98" ForeColor="White" />
-                <DynamicMenuStyle BackColor="#B5C7DE" />
-                <DynamicSelectedStyle BackColor="#507CD1" />
+                <DynamicHoverStyle BackColor="#FFCC99" ForeColor="White" />
+                <DynamicMenuStyle BackColor="#FFCC99" />
+                <DynamicSelectedStyle BackColor="#FF9900" />
                 <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
-                <StaticHoverStyle BackColor="#284E98" ForeColor="White" />
+                <StaticHoverStyle BackColor="#FFCC99" ForeColor="White" />
             </asp:Menu>
             <asp:SiteMapDataSource ID="SiteMapDataSourceMenu" runat="server" />
         </div>
@@ -67,9 +68,6 @@
             </div>
         </div>
         </form>
-        <div id="footer">
-            版权所有©浙江财经大学 地址：浙江省杭州市下沙高教园区学源街18号 邮编：310018 ICP备案号：浙ICP备05014573 浙公网安备：33011802000515号
-        </div>
     </div>
 </body>
 </html>

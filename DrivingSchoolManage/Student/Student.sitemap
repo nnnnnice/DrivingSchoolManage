@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/Student/StudentPage.aspx" title="返回主页"  description="">
+    <siteMapNode url="" title="信息登记"  description="" >
+      <siteMapNode url="~/Teaching/YueChe.aspx" title="约车登记"  description="" />
+      <siteMapNode url="~/test/Examination.aspx" title="约考登记" description="" />
+    </siteMapNode>
+    <siteMapNode url="" title="信息查询"  description="" >
+      <siteMapNode url="~/ManageStudents/SignUpSelect.aspx" title="报名查询"  description="" />
+      <siteMapNode url="~/ManageStudents/PhysicalExamSelect.aspx" title="体检查询" description="" />
+      <siteMapNode url="~/Teaching/SelectYueChe.aspx" title="约车查询"  description="" />
+      <siteMapNode url="~/test/ExamSelect.aspx" title="约考查询" description="" />
+      <siteMapNode url="~/Scores/SelectScore.aspx" title="成绩查询" description="" />
+    </siteMapNode>
+    <siteMapNode url="~/PersonPage.aspx" title="个人信息管理"  description="" />
+    <siteMapNode url="~/login.aspx" title="重新登录"  description="" />
+  </siteMapNode>
+</siteMap>

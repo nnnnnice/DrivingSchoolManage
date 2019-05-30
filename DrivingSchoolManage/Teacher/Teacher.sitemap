@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/Teacher/TeacherPage.aspx" title="返回主页"  description="">
+    <siteMapNode url="~/Teaching/SelectDistribution.aspx" title="教练分配查询"  description="" />
+    <siteMapNode url="~/PersonPage.aspx" title="个人信息管理"  description="" />
+    <siteMapNode url="~/login.aspx" title="重新登录"  description="" />
+  </siteMapNode>
+</siteMap>
