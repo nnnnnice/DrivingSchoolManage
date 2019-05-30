@@ -10,13 +10,13 @@
     <table align="center" cellpadding="3" cellspacing="1" style="border: medium solid #FFCC99;
         width: 98%; height: 100%;">
         <tr>
-            <td height="35" class="hback" colspan="2" align="center">
+            <td height="35" colspan="2" align="center">
                 学员编号：<asp:TextBox runat="server" Width="150px" ID="Textbox1" />
                 <asp:Button ID="Button1" runat="server" Text="按编号查找" OnClick="Button1_Click" />
             </td>
         </tr>
         <tr>
-            <td class="hback" colspan="2" align="center" style="height: 35px">
+            <td colspan="2" align="center" style="height: 35px">
                     <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" CellPadding="4"
                         ForeColor="#333333" GridLines="None" OnRowDeleting="GridView1_RowDeleting" OnRowEditing="GridView1_RowEditing"
                         OnRowUpdating="GridView1_RowUpdating" OnRowCancelingEdit="GridView1_RowCancelingEdit"
